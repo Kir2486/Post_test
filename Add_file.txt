@@ -1,4 +1,4 @@
-SELECT * FROM New_table
+SELECT * FROM HOROSHO
 LIMIT 10;
 
 
