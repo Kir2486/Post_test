@@ -1,2 +1,2 @@
-SELECT * FROM MAIN_TABLE;
+SELECT * FROM New_table;
 
